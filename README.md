@@ -1,6 +1,4 @@
-Aqui está um README em Markdown para documentar o uso do seu projeto.
 
----
 
 # Projeto de Controle de Setas com Movimentos Faciais
 
