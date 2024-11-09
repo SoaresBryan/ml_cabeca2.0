@@ -2,7 +2,7 @@
 
 # Projeto de Controle de Setas com Movimentos Faciais
 
-Este projeto utiliza Python, Flask, OpenCV e Machine Learning para permitir o controle de comandos de setas (cima, baixo, esquerda e direita) a partir dos movimentos da cabeça detectados pela webcam. Com o uso de uma câmera, o sistema detecta e classifica os movimentos faciais e emite comandos de tecla de seta correspondentes, usando a biblioteca `pyautogui` para simular o pressionamento das teclas.
+Este projeto utiliza Python, Flask, OpenCV e Machine Learning para permitir o controle de comandos de setas (cima, baixo, esquerda e direita) a partir dos movimentos da cabeça detectados pela webcam. Com o uso de uma câmera, o sistema detecta e classifica os movimentos faciais e emite comandos de tecla de seta correspondentes, usando a biblioteca `pyautogui` para simular o pressionamento das teclas, você pode testar nesse joguinho: https://snakegame.gg/pt/ :D.
 
 ## Funcionalidades
 
